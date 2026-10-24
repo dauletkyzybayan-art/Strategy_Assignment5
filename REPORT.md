@@ -110,4 +110,4 @@ The pattern adds classes, but it keeps each operation separate and makes new alg
 
 ## 6. GitHub repository
 
-**TO BE ADDED:** paste the actual GitHub repository URL here before submission.
+https://github.com/dauletkyzybayan-art/Strategy_Assignment5
